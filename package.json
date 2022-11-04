@@ -1,0 +1,21 @@
+{
+  "name": "nolicensedep",
+  "version": "1.0.0",
+  "description": "An art project companion that questions the nature of OSS Licensing chains",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomantic/nolicensedep.git"
+  },
+  "author": "Adam Eivy",
+  "bugs": {
+    "url": "https://github.com/atomantic/nolicensedep/issues"
+  },
+  "homepage": "https://github.com/atomantic/nolicensedep#readme",
+  "dependencies": {
+    "nolicense": "^1.0.1"
+  }
+}

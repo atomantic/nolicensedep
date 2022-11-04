@@ -1,0 +1,3 @@
+const nolicensedep = require("../");
+
+nolicensedep();
